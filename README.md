@@ -5,7 +5,7 @@ An Interactive stopwatch app built with REACT,CSS,Component Life Cycle.
 ### Set Up Instructions
 
 ```bash
-  git clone https://github.com/jyosthna1/3D-cube-application.git
+  git clone https://github.com/jyosthna1/stopwatchApp.git
 ```
 - Download dependencies by running `npm install`
 - Start up the app using `npm start`
